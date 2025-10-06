@@ -1,0 +1,2 @@
+# -Insurance-Claims-Performance-Dashboard-Advanced-Excel-Project-
+This project presents an Insurance Claims Performance Dashboard built using Advanced Excel, leveraging Power Query, Power Pivot, and DAX to simulate a real-world insurance analytics solution. The dashboard tracks and analyzes insurance KPIs such as Premiums, Claims Paid, Underwriting Profit, Loss Ratio, Profit Margin, Settlement Ratio, Avg Days.
